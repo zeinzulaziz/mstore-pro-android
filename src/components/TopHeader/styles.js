@@ -12,7 +12,7 @@ export default StyleSheet.create({
     paddingHorizontal: 15,
     paddingVertical: 0,
     position: 'absolute',
-    top: 20,
+    top: 0,
     left: 0,
     right: 0,
     zIndex: 1, // Higher z-index to ensure it's above banner
