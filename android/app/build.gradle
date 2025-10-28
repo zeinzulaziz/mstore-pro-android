@@ -94,14 +94,14 @@ android {
 
     compileSdkVersion rootProject.ext.compileSdkVersion
 
-    namespace "com.inspireui.mstorecommerce"
+    namespace "com.doseofbeauty.app"
     
     defaultConfig {
-        applicationId "com.inspireui.mstorecommerce"
+        applicationId "com.doseofbeauty.app"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
-        versionCode 1
-        versionName "1.0"
+        versionCode 6
+        versionName "1.0.5"
     }
 
     lintOptions {
@@ -124,15 +124,20 @@ android {
             keyAlias 'androiddebugkey'
             keyPassword 'android'
         }
+        release {
+            storeFile file('release-keystore.jks')
+            storePassword 'android'
+            keyAlias 'release-key'
+            keyPassword 'android'
+        }
     }
     buildTypes {
         debug {
             signingConfig signingConfigs.debug
         }
         release {
-            // Caution! In production, you need to generate your own keystore file.
-            // see https://reactnative.dev/docs/signed-apk-android.
-            // signingConfig signingConfigs.debug  // Commented out for Google Play App Signing
+            // Using release keystore for Google Play App Signing
+            signingConfig signingConfigs.release
             minifyEnabled enableProguardInReleaseBuilds
             proguardFiles getDefaultProguardFile("proguard-android.txt"), "proguard-rules.pro"
         }

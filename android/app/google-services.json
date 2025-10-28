@@ -10,7 +10,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:190592056642:android:97692c1746ce8e7f351cdb",
         "android_client_info": {
-          "package_name": "com.inspireui.mstorecommerce"
+          "package_name": "com.doseofbeauty.app"
         }
       },
       "oauth_client": [
@@ -18,7 +18,7 @@
           "client_id": "190592056642-3fltgmkarnv4a8t9mmujt1q361mtu3jo.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.inspireui.mstorecommerce",
+            "package_name": "com.doseofbeauty.app",
             "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
           }
         },
@@ -26,7 +26,7 @@
           "client_id": "190592056642-85ei5ohpmo45untvdcs0s02vfdgrl2ib.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.inspireui.mstorecommerce",
+            "package_name": "com.doseofbeauty.app",
             "certificate_hash": "e152e8bc41044b67e33a04f83247c20c2703b9b1"
           }
         },
@@ -34,7 +34,7 @@
           "client_id": "190592056642-9v8ai3rn8k2n3dkc0u41tvvn3c8plc0v.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.inspireui.mstorecommerce",
+            "package_name": "com.doseofbeauty.app",
             "certificate_hash": "0844b0a8c9b38232226b9865fd11b2e2aaa149fe"
           }
         },
@@ -42,7 +42,7 @@
           "client_id": "190592056642-i61scjfu0gqcqda3dgaim3jq5qeqk46r.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.inspireui.mstorecommerce",
+            "package_name": "com.doseofbeauty.app",
             "certificate_hash": "67852f171e9d9bf4de2bbc71a2675f65cbbecd91"
           }
         },
@@ -50,7 +50,7 @@
           "client_id": "190592056642-lsb6v378ktnf67979rrsvooemf4aji1l.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.inspireui.mstorecommerce",
+            "package_name": "com.doseofbeauty.app",
             "certificate_hash": "fd33649d6ee03a1aea31c7be21948ebcbbd06484"
           }
         },

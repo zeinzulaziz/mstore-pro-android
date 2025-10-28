@@ -1,4 +1,4 @@
-package com.inspireui.mstorecommerce;
+package com.doseofbeauty.app;
 
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;
