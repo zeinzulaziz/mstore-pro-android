@@ -1,0 +1,52 @@
+{
+  "HorizonLayout": [
+    {
+      "name": "flashSale",
+      "layout": "threeColumn",
+      "category": 194
+    },
+    {
+      "name": "brandFeature",
+      "layout": "brandFeature"
+    },
+    {
+      "imageBanner": "https://doseofbeauty.id/wp-content/uploads/2025/04/banner-website-beautyweek-.jpg",
+      "layout": "bannerImage",
+      "height": 200,
+      "imageMode": "cover"
+    },
+    {
+      "name": "Makeup",
+      "layout": "threeColumn",
+      "category": 197
+    },
+    {
+      "imageBanner": "https://doseofbeauty.id/wp-content/uploads/2025/04/banner-website-beautyweek-.jpg",
+      "layout": "bannerImage",
+      "height": 200,
+      "imageMode": "cover"
+    },
+    {
+      "name": "Skincare",
+      "layout": "threeColumn",
+      "category": 196
+    },
+    {
+      "imageBanner": "https://doseofbeauty.id/wp-content/uploads/2025/04/banner-website-beautyweek-.jpg",
+      "layout": "bannerImage",
+      "height": 200,
+      "imageMode": "cover"
+    },
+    {
+      "name": "Haircare",
+      "layout": "threeColumn",
+      "category": 198
+    }
+  ],
+
+  "layoutVerticalLayout": {
+    "layout": "circleCategory"
+  },
+
+  "MainColor": "#607D8B"
+}

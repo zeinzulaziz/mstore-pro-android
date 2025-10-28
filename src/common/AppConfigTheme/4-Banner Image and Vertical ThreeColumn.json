@@ -1,0 +1,32 @@
+{
+  "WooCommerce": {
+    "url": "https://doseofbeauty.id/",
+    "consumerKey": "ck_b87630a219fd4f1569d0b0582414100a4b60142c",
+    "consumerSecret": "cs_135ff1c9d7c51b0fa140faa70e8f721597ee7d4c"
+  },
+  "HorizonLayout": [
+    {
+      "imageBanner": "http://s3-ap-southeast-1.amazonaws.com/mstore-bucket.io/wp-content/uploads/2019/02/25142018/collection.png",
+      "layout": "bannerImage",
+      "height": 160,
+      "imageMode": "cover",
+      "category": 18
+    },
+    {
+      "layout": "circleCategory"
+    },
+    {
+      "name": "featureProducts",
+      "image": "",
+      "layout": "card",
+      "category": 21
+    }
+  ],
+
+  "VerticalLayout": {
+    "name": "Recents",
+    "layout": "threeColumn"
+  },
+
+  "MainColor": "#FF5722"
+}

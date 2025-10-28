@@ -1,0 +1,10 @@
+{
+  "name": "MStore_v2_Android",
+  "displayName": "Dose of Beauty Android",
+  "platforms": ["android"],
+  "android": {
+    "compileSdkVersion": 34,
+    "targetSdkVersion": 34,
+    "minSdkVersion": 21
+  }
+}

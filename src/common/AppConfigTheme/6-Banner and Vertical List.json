@@ -1,0 +1,24 @@
+{
+  "WooCommerce": {
+    "url": "https://doseofbeauty.id/",
+    "consumerKey": "ck_b87630a219fd4f1569d0b0582414100a4b60142c",
+    "consumerSecret": "cs_135ff1c9d7c51b0fa140faa70e8f721597ee7d4c"
+  },
+  "HorizonLayout": [
+    {
+      "layout": "circleCategory"
+    },
+
+    {
+      "layout": "banner",
+      "tag": 273
+    }
+  ],
+
+  "VerticalLayout": {
+    "name": "Recents",
+    "layout": "simple"
+  },
+
+  "MainColor": "#3F51B5"
+}
