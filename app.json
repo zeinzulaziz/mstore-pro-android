@@ -1,6 +1,6 @@
 {
   "name": "MStoreProAndroid",
-  "displayName": "MStore Pro Android",
+  "displayName": "Dose of Beauty",
   "platforms": ["android"],
   "android": {
     "compileSdkVersion": 34,
